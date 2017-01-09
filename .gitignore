@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.ftpconfig
+ehthumbs.db
+Thumbs.db
+
+# Other files #
+###############
+dist
+node_modules
+bower_components
+npm-debug.log
